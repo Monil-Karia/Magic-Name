@@ -61,3 +61,4 @@ for c in ime:
         print("----..----\n\n")
 
 print("Thanks")
+print("Thats your Magic Name")
